@@ -1,0 +1,46 @@
+h1, p {
+    font-family: Lato;
+  }
+  
+  
+  .Main{
+    height: 200px;
+    width:100vw;
+    background-color: rgb(128, 3, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #login_form{
+    background-color: aliceblue;
+    height: 150px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    border:2px solid rgb(72, 0, 139);
+  }
+  
+  #errors_here{
+    background-color: brown;
+    height: auto;
+    width: 100vw;
+  }
+  #error{
+    font-size: 20px;
+  }
+  #valid_user_msg,#valid_pass_msg{
+    color: white;
+  }
+  
+  #success{
+    background-color: greenyellow;
+    width:100vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  
+  }
