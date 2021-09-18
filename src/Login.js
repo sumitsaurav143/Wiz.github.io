@@ -12,9 +12,6 @@ function validateUserPass() {
   const user=name.current.value;
  
   var errors_username = [];
-  if (user.length < 8) {
-    errors_username.push("Your username must be at least 8 characters"); 
-  }
   if (user.search(/[a-z]/i) < 0) {
     errors_username.push("Username must contain at least one lower case letter.");
   }
@@ -46,7 +43,7 @@ function validateUserPass() {
   if (errors_pass.length > 0) {
     document.getElementById("valid_pass_msg").innerText=errors_pass.join("\n");
   }
-  if (errors_pass.length == 0 && errors_username.length > 0) {
+  if (errors_pass.length == 0 && errors_username.length == 0) {
   setShow(true);
 }
 }
