@@ -56,7 +56,7 @@ function validateUserPass() {
   return(
     <>
       <div className="Main">
-        <form id="login_form">
+        <div id="login_form">
           <div>
           <input ref={name} type="text" placeholder="Enter Username" required/>
           </div>
@@ -66,7 +66,7 @@ function validateUserPass() {
           </div>
           <br/>
             <button onClick={validateUserPass}> Submit</button>
-          </form>
+          </div>
           
       </div> 
       {!show?
