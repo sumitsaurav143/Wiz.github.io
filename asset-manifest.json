@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Wiz.github.io/static/css/main.2894272c.chunk.css",
-    "main.js": "/Wiz.github.io/static/js/main.8e29b92f.chunk.js",
-    "main.js.map": "/Wiz.github.io/static/js/main.8e29b92f.chunk.js.map",
+    "main.js": "/Wiz.github.io/static/js/main.6cd5636e.chunk.js",
+    "main.js.map": "/Wiz.github.io/static/js/main.6cd5636e.chunk.js.map",
     "runtime-main.js": "/Wiz.github.io/static/js/runtime-main.c9235bef.js",
     "runtime-main.js.map": "/Wiz.github.io/static/js/runtime-main.c9235bef.js.map",
     "static/js/2.325afe4f.chunk.js": "/Wiz.github.io/static/js/2.325afe4f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c9235bef.js",
     "static/js/2.325afe4f.chunk.js",
     "static/css/main.2894272c.chunk.css",
-    "static/js/main.8e29b92f.chunk.js"
+    "static/js/main.6cd5636e.chunk.js"
   ]
 }
