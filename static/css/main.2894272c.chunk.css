@@ -1,0 +1,2 @@
+h1,p{font-family:Lato}.Main{height:200px;width:100vw;background-color:#8003f5}#login_form,.Main{display:flex;justify-content:center;align-items:center;flex-direction:column}#login_form{background-color:#f0f8ff;height:150px;width:300px;border-radius:10px;border:2px solid #48008b}#errors_here{background-color:brown;height:auto;width:100vw}#error{font-size:20px}#valid_pass_msg,#valid_user_msg{color:#fff}#success{background-color:#adff2f;width:100vw;font-family:"Courier New",Courier,monospace;font-weight:700}
+/*# sourceMappingURL=main.2894272c.chunk.css.map */
